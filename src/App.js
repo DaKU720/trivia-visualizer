@@ -99,7 +99,7 @@ function App() {
                             />
                             <YAxis allowDecimals={false} />
                             <Tooltip />
-                            <Bar dataKey="count" fill="#e37afcg" />
+                            <Bar dataKey="count" fill="#e378fc" />
                         </BarChart>
                     </ResponsiveContainer>
 
